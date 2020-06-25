@@ -1,0 +1,22 @@
+﻿<productTypes>
+  <productType>
+    <idType>1</idType>
+    <nameType>Браслет</nameType>
+  </productType>
+  <productType>
+    <idType>2</idType>
+    <nameType>Цепь</nameType>
+  </productType>
+  <productType>
+    <idType>3</idType>
+    <nameType>Кольцо</nameType>
+  </productType>
+  <productType>
+    <idType>4</idType>
+    <nameType>Серьги</nameType>
+  </productType>
+  <productType>
+    <idType>6</idType>
+    <nameType>Брошь</nameType>
+  </productType>
+</productTypes>

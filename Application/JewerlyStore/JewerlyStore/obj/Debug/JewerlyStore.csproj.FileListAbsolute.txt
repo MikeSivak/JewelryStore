@@ -1,0 +1,102 @@
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\MainWindow.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\MainWindow.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\UsersRegistration.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\UsersRegistration.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddCashier.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddCountry.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddManufacturer.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddProduct.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\Admin.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\Cashier.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\Client.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteClient.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteCountry.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteManufacturer.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteProduct.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddCashier.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddCountry.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddManufacturer.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddProduct.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\Admin.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\Cashier.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\Client.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteClient.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteCountry.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteManufacturer.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteProduct.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddMaterial.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddType.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteMaterial.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteType.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddMaterial.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\AddType.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteMaterial.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteType.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteCashier.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\DeleteCashier.baml
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\CheckoutOrder.g.cs
+E:\КурсачЁпты\Приложушка\JewerlyStore\JewerlyStore\obj\Debug\CheckoutOrder.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddCashier.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddCountry.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddManufacturer.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddMaterial.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddProduct.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddType.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\Admin.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\Cashier.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\CheckoutOrder.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\Client.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteCashier.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteClient.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteCountry.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteManufacturer.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteMaterial.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteProduct.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteType.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\HelloWindow.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\MainWindow.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\UsersRegistration.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddCashier.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddCountry.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddManufacturer.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddMaterial.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddProduct.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\AddType.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\Admin.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\Cashier.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\CheckoutOrder.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\Client.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteCashier.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteClient.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteCountry.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteManufacturer.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteMaterial.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteProduct.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\DeleteType.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\MainWindow.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\UsersRegistration.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\HelloWindow.baml
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+E:\CourseWork(JewerlyStore_2019 (Final Version))\Application\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb

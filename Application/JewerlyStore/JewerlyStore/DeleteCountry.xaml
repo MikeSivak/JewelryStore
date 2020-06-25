@@ -1,0 +1,14 @@
+﻿<Window x:Class="JewerlyStore.DeleteCountry"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JewerlyStore"
+        mc:Ignorable="d"
+        Title="DeleteCountry" Height="190" Width="400">
+    <Grid Background="#FFA959D6">
+        <Label VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="16" Margin="0 30 0 0">Select Country Name</Label>
+        <ComboBox x:Name="delCountryBox" VerticalAlignment="Top" HorizontalAlignment="Center" Width="200" Height="24" Margin="0 60 0 0" DropDownOpened="selectCountries"></ComboBox>
+        <Button VerticalAlignment="Top" HorizontalAlignment="Center" Width="60" Height="24" Margin="0 110 0 0" FontSize="14" Background="#FF47A4E4" Click="delCountryClick">Delete</Button>
+    </Grid>
+</Window>

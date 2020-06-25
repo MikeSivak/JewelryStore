@@ -1,0 +1,14 @@
+﻿<Window x:Class="JewerlyStore.DeleteManufacturer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JewerlyStore"
+        mc:Ignorable="d"
+        Title="DeleteManufacturer" Height="200" Width="400">
+    <Grid Background="#FF8696DE">
+        <Label VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="16" Margin="0 30 0 0">Select Manufacturer Name</Label>
+        <ComboBox x:Name="delManufacturerBox" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0 60 0 0" Width="200" Height="24" DropDownOpened="selectManufacturers"></ComboBox>
+        <Button VerticalAlignment="Top" HorizontalAlignment="Center" Width="80" Height="24" Margin="0 110 0 0" FontSize="14" Background="#FFDC6060" Click="delManufacturerClick">Delete</Button>
+    </Grid>
+</Window>
